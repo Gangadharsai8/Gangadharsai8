@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Data+Analytics+%7C+Python+%7C+SQL+%7C+Excel;Building+with+LLMs+%2C+RAG+%26+Flask;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Data+Analytics+%7C+Python+%7C+SQL+%7C+Excel;Building+Data-Driven+Dashboards+%26+Apps;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,14 +29,14 @@ degree: "B.Tech - Artificial Intelligence & Machine Learning"
 college: "St. Martin's Engineering College, Hyderabad"
 graduation: "2027"
 cgpa: "8.2"
-currently_building: "LLM-powered RAG applications & data dashboards"
-currently_learning: ["Retrieval-Augmented Generation", "Advanced SQL", "Power BI"]
+currently_building: "Data dashboards & full-stack applications"
+currently_learning: ["Advanced SQL", "Power BI", "Data Visualization"]
 looking_to_collaborate_on: "AI/ML & Data Analytics projects"
 fun_fact: "I turn messy spreadsheets into clean, insight-driven dashboards 📊"
 ```
 
 - 🔭 Currently building end-to-end **AI/ML and full-stack projects** for my portfolio
-- 🌱 Sharpening skills in **Python, SQL, Power BI, and LLM APIs** (OpenAI / Gemini / Claude)
+- 🌱 Sharpening skills in **Python, SQL, and Power BI**
 - 💡 Passionate about turning raw data into decisions — dashboards, KPIs, and automation
 - 📫 Actively looking for **internship & entry-level opportunities** in Data Analytics / AI-ML
 - ⚡ Fun fact: I debug spreadsheets the way most people debug code
@@ -107,6 +107,8 @@ Interactive Excel dashboard analyzing a 1,000-row synthetic sales dataset.
 - 5 dynamic PivotTables with KPI cards for revenue, orders & trends
 - Dual-axis PivotCharts for multi-metric visual analysis
 
+[🔗 View Repo](https://github.com/Gangadharsai8/ecommerce-sales-dashboard-excel)
+
 <img src="https://img.shields.io/badge/Status-Complete-EC4899?style=flat-square&labelColor=0B0E1A"/>
 
 </td>
@@ -120,7 +122,26 @@ Personal finance dashboard tracking income vs. expenses across categories.
 - 6 KPI cards, including an INDEX/MATCH-based "Top Spending Category"
 - Resolved shared pivot-cache conflicts for clean, independent views
 
+[🔗 View Repo](https://github.com/Gangadharsai8/finance-budget-tracker-excel)
+
 <img src="https://img.shields.io/badge/Status-Complete-F59E0B?style=flat-square&labelColor=0B0E1A"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🏥 Hospital Management SQL Case Study
+MySQL case study analyzing City General Hospital's patients, doctors, appointments, treatments & billing data.
+
+**Stack:** MySQL · MySQL Workbench · JOINs · Aggregate Functions · Subqueries
+
+- Structured a 5-table relational database from raw CSV data
+- Wrote multi-table queries to surface operational & billing insights
+
+[🔗 View Repo](https://github.com/Gangadharsai8/hospital-management-sql-case-study)
+
+<img src="https://img.shields.io/badge/Status-Complete-8B5CF6?style=flat-square&labelColor=0B0E1A"/>
 
 </td>
 </tr>
@@ -180,54 +201,3 @@ Personal finance dashboard tracking income vs. expenses across categories.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,35:C026D3,70:6D28D9,100:1E1B4B&height=100&section=footer" width="100%"/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gangadharsai8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangadharsai8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gangadharsai8&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=A855F7&fire=F2C811"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangadharsai8&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=A855F7&point=F2C811" width="100%"/>
-
-</div>
-
-> 💡 *Stats update automatically — no action needed once this README is live on your profile repo.*
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## 🎓 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python_Certified-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Certified-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Business_Analytics_with_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel_for_Data_Analysis-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/chitturi-gangadhar-14b750260" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:chitturigangadhar2004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Gangadharsai8" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Gangadharsai8&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
